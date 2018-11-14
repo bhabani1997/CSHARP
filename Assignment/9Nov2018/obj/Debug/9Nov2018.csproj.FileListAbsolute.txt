@@ -1,0 +1,14 @@
+D:\CSharp\9Nov2018\bin\Debug\9Nov2018.exe.config
+D:\CSharp\9Nov2018\bin\Debug\9Nov2018.exe
+D:\CSharp\9Nov2018\bin\Debug\9Nov2018.pdb
+D:\CSharp\9Nov2018\obj\Debug\9Nov2018.csprojAssemblyReference.cache
+D:\CSharp\9Nov2018\obj\Debug\9Nov2018.csproj.CoreCompileInputs.cache
+D:\CSharp\9Nov2018\obj\Debug\9Nov2018.exe
+D:\CSharp\9Nov2018\obj\Debug\9Nov2018.pdb
+D:\CSharp\Assignment\9Nov2018\bin\Debug\9Nov2018.exe.config
+D:\CSharp\Assignment\9Nov2018\bin\Debug\9Nov2018.exe
+D:\CSharp\Assignment\9Nov2018\bin\Debug\9Nov2018.pdb
+D:\CSharp\Assignment\9Nov2018\obj\Debug\9Nov2018.csprojAssemblyReference.cache
+D:\CSharp\Assignment\9Nov2018\obj\Debug\9Nov2018.csproj.CoreCompileInputs.cache
+D:\CSharp\Assignment\9Nov2018\obj\Debug\9Nov2018.exe
+D:\CSharp\Assignment\9Nov2018\obj\Debug\9Nov2018.pdb

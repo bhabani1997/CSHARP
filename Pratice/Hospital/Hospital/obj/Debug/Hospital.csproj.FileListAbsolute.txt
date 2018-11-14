@@ -1,0 +1,7 @@
+D:\CSharp\Pratice\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\CSharp\Pratice\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\CSharp\Pratice\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\CSharp\Pratice\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+D:\CSharp\Pratice\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\CSharp\Pratice\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\CSharp\Pratice\Hospital\Hospital\obj\Debug\Hospital.pdb
