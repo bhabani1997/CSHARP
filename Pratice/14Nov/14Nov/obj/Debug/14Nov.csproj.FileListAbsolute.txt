@@ -1,0 +1,7 @@
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\bin\Debug\14Nov.exe.config
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\bin\Debug\14Nov.exe
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\bin\Debug\14Nov.pdb
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.csprojAssemblyReference.cache
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.csproj.CoreCompileInputs.cache
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.exe
+C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.pdb
