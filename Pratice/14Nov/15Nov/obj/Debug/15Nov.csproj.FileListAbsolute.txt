@@ -1,0 +1,7 @@
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\obj\Debug\15Nov.csprojAssemblyReference.cache
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\obj\Debug\15Nov.csproj.CoreCompileInputs.cache
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\bin\Debug\15Nov.exe.config
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\bin\Debug\15Nov.exe
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\bin\Debug\15Nov.pdb
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\obj\Debug\15Nov.exe
+D:\CSHARP\Csharp\Pratice\14Nov\15Nov\obj\Debug\15Nov.pdb

@@ -5,3 +5,10 @@ C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.cs
 C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.csproj.CoreCompileInputs.cache
 C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.exe
 C:\Users\sankar.panda\Documents\GitHub\C-\pratice\14Nov\14Nov\obj\Debug\14Nov.pdb
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\bin\Debug\14Nov.exe.config
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\bin\Debug\14Nov.exe
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\bin\Debug\14Nov.pdb
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\obj\Debug\14Nov.csprojAssemblyReference.cache
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\obj\Debug\14Nov.csproj.CoreCompileInputs.cache
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\obj\Debug\14Nov.exe
+D:\CSHARP\Csharp\Pratice\14Nov\14Nov\obj\Debug\14Nov.pdb
