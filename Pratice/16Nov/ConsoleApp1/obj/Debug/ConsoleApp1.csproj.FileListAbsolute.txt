@@ -1,0 +1,12 @@
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\Assembly1.dll
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\Assembly2.dll
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\Assembly1.pdb
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\bin\Debug\Assembly2.pdb
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\CSHARP\Csharp\Pratice\16Nov\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

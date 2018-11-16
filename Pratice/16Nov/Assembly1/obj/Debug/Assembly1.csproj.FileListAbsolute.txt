@@ -1,0 +1,6 @@
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\bin\Debug\Assembly1.dll
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\bin\Debug\Assembly1.pdb
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\obj\Debug\Assembly1.dll
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\obj\Debug\Assembly1.pdb
+D:\CSHARP\Csharp\Pratice\16Nov\Assembly1\obj\Debug\Assembly1.csprojAssemblyReference.cache
